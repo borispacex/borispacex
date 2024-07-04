@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!
 <br>
-I'm Boris, Software developer and Junior devops from La Paz, Bolivia <img src="images/bolivia.png" width="13"/> </p>
+I'm Boris, Software developer and Junior devops from <b>La Paz, Bolivia <img src="images/bolivia.png" width="13"/> </b> </p>
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@devboris7248)
