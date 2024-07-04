@@ -15,4 +15,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=borispacex&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borispacex&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borispacex&layout=compact&theme=dark)
